@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		E424357A1D815B03000CCD70 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
+		E49883E51D820A3B004657FD /* juegoDeMemoria2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria2.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E42435721D8157FC000CCD70 = {
 			isa = PBXGroup;
 			children = (
+				E49883E51D820A3B004657FD /* juegoDeMemoria2.playground */,
 				E424357A1D815B03000CCD70 /* juegoDeMemoria.playground */,
 			);
 			sourceTree = "<group>";

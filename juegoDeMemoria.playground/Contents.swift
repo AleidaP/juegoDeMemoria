@@ -1,5 +1,6 @@
-//: Playground que evalúa un rango de números en base a 4 reglas de impresión.
-
+/* Playground que evalúa un rango de números en base a 4 reglas de impresión.
+ 
+ AGREGO AQUÍ LA URL A MI REPOSITORIO DE ESTE PROYECTO: https://github.com/AleidaP/juegoDeMemoria.git */
 import UIKit
 
 var lista = 1...100
