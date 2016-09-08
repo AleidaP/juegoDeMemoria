@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E42435791D815834000CCD70 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = juegoDeMemoria.playground; path = ../../Documents/juegoDeMemoria.playground; sourceTree = "<group>"; };
+		E424357A1D815B03000CCD70 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		E42435721D8157FC000CCD70 = {
 			isa = PBXGroup;
 			children = (
-				E42435791D815834000CCD70 /* juegoDeMemoria.playground */,
+				E424357A1D815B03000CCD70 /* juegoDeMemoria.playground */,
 			);
 			sourceTree = "<group>";
 		};
